@@ -2,10 +2,4 @@
 
 
 
-Docker Mongo:
-docker pull mongo
-docker run --name some-mongo -p  -d mongo:latest
-Docker Dockerfile:
-cd dockerfile
-docker build -t 
-docker run --name demo -p 
+Le thème choisi pour ce POC est les recettes de salades :)
