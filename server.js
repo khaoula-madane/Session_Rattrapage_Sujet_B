@@ -81,7 +81,7 @@ app.delete('/recttes/:idrecette',(req, res)=>{
 // ROUTES VUES
 // ------------------------
 app.get('/',(req,res)=>{
-    res.render('helloWorld',{message : req.query.message})
+    res.render('Recettes',{message : req.query.message})
 });
 
 
