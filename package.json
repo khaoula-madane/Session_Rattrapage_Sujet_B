@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/khaoula-madane/Session_Rattrapage_Sujet_B#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
